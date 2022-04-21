@@ -1,6 +1,7 @@
 {
-  "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
+  "name": "Shadowsocks+V2Ray-plugin Rapid deployment jugad",
   "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
+  "repository": "https://github.com/jugademail/VPN"
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
      "ENCRYPT": {
